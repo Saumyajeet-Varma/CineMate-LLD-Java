@@ -1,3 +1,5 @@
+package main.java.com.cinemate.model;
+
 public class Movie {
     
     private String id;

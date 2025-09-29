@@ -1,3 +1,5 @@
+package main.java.com.cinemate.model;
+
 import java.util.ArrayList;
 
 public class Screen {

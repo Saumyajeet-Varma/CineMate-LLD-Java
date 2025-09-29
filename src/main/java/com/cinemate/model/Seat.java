@@ -1,3 +1,5 @@
+package main.java.com.cinemate.model;
+
 public class Seat {
     
     private String seatNumber;
