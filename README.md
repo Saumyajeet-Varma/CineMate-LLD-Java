@@ -1,4 +1,4 @@
-# Movie Ticket Booking System (Core Java)
+# Movie Ticket Booking System - LLD Implementation
 
 A simple **Movie Ticket Booking System** built using **Core Java (OOPs concepts)**.  
 This project demonstrates **Object-Oriented Programming** principles such as:
