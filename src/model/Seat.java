@@ -1,4 +1,4 @@
-package main.java.com.cinemate.model;
+package model;
 
 public class Seat {
     

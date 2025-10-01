@@ -1,7 +1,5 @@
-package main.java.com.cinemate;
-
-import main.java.com.cinemate.model.*;
-import main.java.com.cinemate.service.*;
+import model.*;
+import service.*;
 
 import java.util.*;
 

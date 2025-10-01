@@ -1,4 +1,4 @@
-package main.java.com.cinemate.model;
+package model;
 
 import java.util.ArrayList;
 

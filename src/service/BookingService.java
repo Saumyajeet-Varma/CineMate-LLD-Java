@@ -1,6 +1,6 @@
-package main.java.com.cinemate.service;
+package service;
 
-import main.java.com.cinemate.model.*;
+import model.*;
 
 import java.util.ArrayList;
 
